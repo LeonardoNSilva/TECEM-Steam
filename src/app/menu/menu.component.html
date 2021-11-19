@@ -1,0 +1,19 @@
+<div class="cont">
+    <div class="menu">
+        <ul>
+            <li><a [routerLink]="['/acao']" routerLinkActive="active">Ação</a></li>
+            <li><a [routerLink]="['/aventura']" routerLinkActive="active">Aventura</a></li>
+            <li><a [routerLink]="['/casual']" routerLinkActive="active">Casual</a></li>
+            <li><a [routerLink]="['/competitivo-online']" routerLinkActive="active">Competitivo Online</a></li>
+            <li><a [routerLink]="['/corrida']" routerLinkActive="active">Corrida</a></li>
+            <li><a [routerLink]="['/esporte']" routerLinkActive="active">Esporte</a></li>
+            <li><a [routerLink]="['/estrategia']" routerLinkActive="active">Estratégia</a></li>
+            <li><a [routerLink]="['/multijogador']" routerLinkActive="active">Multijogador</a></li>
+            <li><a [routerLink]="['/rpg']" routerLinkActive="active">RPG</a></li>
+            <li><a [routerLink]="['/simulador']" routerLinkActive="active">Simulador</a></li>
+        </ul>
+    </div>
+    <div class="games">
+        <router-outlet></router-outlet>
+    </div>
+</div>

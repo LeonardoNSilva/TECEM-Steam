@@ -1,0 +1,44 @@
+ul {
+    list-style: none;
+}
+li{
+    padding: 10px;
+}
+a {
+    text-decoration: none;
+    color: #C5C3C0;
+}
+
+a:hover {
+    font-weight: bold;
+}
+
+h4{
+    color: #C5C3C0;
+}
+h6{
+    color: #C5C3C0;
+    font-size: 12px;
+    margin-top: 25px;
+    margin-bottom: 0px ;
+}
+.menu{
+    width: 20%;
+    height: 100vh;
+    display: inline-block;
+    flex-direction: column;
+    align-items: center;
+    background-color: #202D39;
+}
+
+.cont{
+    display: inline-flex;
+    flex-direction: row;
+    background-color: #202D39;
+    width: 100%;
+}
+
+.games{
+    width: 80%;
+    background-image: linear-gradient(to top, #1B2838, #284466, #184555);
+}
