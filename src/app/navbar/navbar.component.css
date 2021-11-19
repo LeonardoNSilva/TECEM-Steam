@@ -1,0 +1,26 @@
+nav{
+    background-color: #171A21;
+}
+
+.div1{
+    width: 20%;
+    border-right: #C5C3C0 solid 2px;
+    text-align: center;
+}
+
+.div1 a {
+    text-decoration: none;
+    color: #C5C3C0;
+}
+
+.div2 {
+    width: 80%;
+    height: 70px;
+    float: left;
+}
+
+img{
+    margin-left: 30px;
+    margin-top: 10px;
+    height: 50px;
+}

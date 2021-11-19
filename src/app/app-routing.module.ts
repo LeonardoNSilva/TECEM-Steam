@@ -10,10 +10,12 @@ import { EstrategiaComponent } from './generos/estrategia/estrategia.component';
 import { MultijogadorComponent } from './generos/multijogador/multijogador.component';
 import { RpgComponent } from './generos/rpg/rpg.component';
 import { SimuladorComponent } from './generos/simulador/simulador.component';
+import { HomeComponent } from './home/home.component';
 import { MenuComponent } from './menu/menu.component';
 
 const routes: Routes = [
-  {path: 'menu', component: MenuComponent},
+  {path: '', redirectTo: '/home', pathMatch: 'full'},
+  {path: 'home', component: HomeComponent},
   {path: 'acao', component: AcaoComponent},
   {path: 'aventura', component: AventuraComponent},
   {path: 'casual', component: CasualComponent},  
@@ -24,6 +26,8 @@ const routes: Routes = [
   {path: 'multijogador', component: MultijogadorComponent},
   {path: 'rpg', component: RpgComponent},
   {path: 'simulador', component: SimuladorComponent}
+  
+
 ];
 
 @NgModule({

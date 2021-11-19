@@ -14,6 +14,8 @@ import { EsporteComponent } from './generos/esporte/esporte.component';
 import { CorridaComponent } from './generos/corrida/corrida.component';
 import { MultijogadorComponent } from './generos/multijogador/multijogador.component';
 import { CompetitivoOnlineComponent } from './generos/competitivo-online/competitivo-online.component';
+import { NavbarComponent } from './navbar/navbar.component';
+import { HomeComponent } from './home/home.component';
 
 @NgModule({
   declarations: [
@@ -28,7 +30,9 @@ import { CompetitivoOnlineComponent } from './generos/competitivo-online/competi
     EsporteComponent,
     CorridaComponent,
     MultijogadorComponent,
-    CompetitivoOnlineComponent
+    CompetitivoOnlineComponent,
+    NavbarComponent,
+    HomeComponent
   ],
   imports: [
     BrowserModule,
