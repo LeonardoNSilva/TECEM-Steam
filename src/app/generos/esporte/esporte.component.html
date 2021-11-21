@@ -7,8 +7,9 @@
     </nav>
 </div>
 <div class="container justify-content-arond">
-    <!-- <div class="card cardSpace" *ngFor="let carro of carros">
-        <img [src]="carro.foto" alt="imagem Produto">
-        <h4> {{carro.produto}} </h4>
-    </div> -->
+    <div class="card sectionSpace" *ngFor="let game of games">
+        <img [src]="game.image" [alt]="game.title">
+        <h5> {{game.title}} </h5>
+        <p> {{game.desc}} </p>
+    </div>
 </div>
