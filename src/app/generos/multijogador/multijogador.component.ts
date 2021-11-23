@@ -8,7 +8,21 @@ import { Component, OnInit } from '@angular/core';
 export class MultijogadorComponent implements OnInit {
 
   games: any = [
-    {title: 'Forza', image: '', desc: 'blallbalblala'}
+    {title: '', image: 'src/assets/multijogador/', desc: 'R$0,00'},
+    {title: '', image: 'src/assets/multijogador/', desc: 'R$0,00'},
+    {title: '', image: 'src/assets/multijogador/', desc: 'R$0,00'},
+    {title: '', image: 'src/assets/multijogador/', desc: 'R$0,00'},
+    {title: '', image: 'src/assets/multijogador/', desc: 'R$0,00'},
+    {title: '', image: 'src/assets/multijogador/', desc: 'R$0,00'},
+    {title: '', image: 'src/assets/multijogador/', desc: 'R$0,00'},
+    {title: '', image: 'src/assets/multijogador/', desc: 'R$0,00'},
+    {title: '', image: 'src/assets/multijogador/', desc: 'R$0,00'},
+    {title: '', image: 'src/assets/multijogador/', desc: 'R$0,00'},
+    {title: '', image: 'src/assets/multijogador/', desc: 'R$0,00'},
+    {title: '', image: 'src/assets/multijogador/', desc: 'R$0,00'},
+    {title: '', image: 'src/assets/multijogador/', desc: 'R$0,00'},
+    {title: '', image: 'src/assets/multijogador/', desc: 'R$0,00'},
+    {title: '', image: 'src/assets/multijogador/', desc: 'R$0,00'}
   ]
 
   constructor() { }
