@@ -8,21 +8,21 @@ import { Component, OnInit } from '@angular/core';
 export class CorridaComponent implements OnInit {
 
   games: any = [
-    {title: '', image: 'src/assets/corrida/.jpg', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/corrida/.jpg', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/corrida/.jpg', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/corrida/.jpg', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/corrida/.jpg', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/corrida/.jpg', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/corrida/.jpg', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/corrida/.jpg', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/corrida/.jpg', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/corrida/.jpg', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/corrida/.jpg', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/corrida/.jpg', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/corrida/.jpg', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/corrida/.jpg', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/corrida/.jpg', desc: 'R$0,00'}
+    {title: '', image: './assets/corrida/.jpg', desc: 'R$0,00'},
+    {title: '', image: './assets/corrida/.jpg', desc: 'R$0,00'},
+    {title: '', image: './assets/corrida/.jpg', desc: 'R$0,00'},
+    {title: '', image: './assets/corrida/.jpg', desc: 'R$0,00'},
+    {title: '', image: './assets/corrida/.jpg', desc: 'R$0,00'},
+    {title: '', image: './assets/corrida/.jpg', desc: 'R$0,00'},
+    {title: '', image: './assets/corrida/.jpg', desc: 'R$0,00'},
+    {title: '', image: './assets/corrida/.jpg', desc: 'R$0,00'},
+    {title: '', image: './assets/corrida/.jpg', desc: 'R$0,00'},
+    {title: '', image: './assets/corrida/.jpg', desc: 'R$0,00'},
+    {title: '', image: './assets/corrida/.jpg', desc: 'R$0,00'},
+    {title: '', image: './assets/corrida/.jpg', desc: 'R$0,00'},
+    {title: '', image: './assets/corrida/.jpg', desc: 'R$0,00'},
+    {title: '', image: './assets/corrida/.jpg', desc: 'R$0,00'},
+    {title: '', image: './assets/corrida/.jpg', desc: 'R$0,00'}
   ]
 
   constructor() { }

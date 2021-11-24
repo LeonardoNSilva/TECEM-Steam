@@ -8,21 +8,21 @@ import { Component, OnInit } from '@angular/core';
 export class AventuraComponent implements OnInit {
 
   games: any = [
-    {title: '', image: 'src/assets/aventura/.jpg', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/aventura/.jpg', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/aventura/.jpg', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/aventura/.jpg', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/aventura/.jpg', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/aventura/.jpg', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/aventura/.jpg', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/aventura/.jpg', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/aventura/.jpg', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/aventura/.jpg', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/aventura/.jpg', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/aventura/.jpg', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/aventura/.jpg', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/aventura/.jpg', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/aventura/.jpg', desc: 'R$0,00'}
+    {title: '', image: './assets/aventura/.jpg', desc: 'R$0,00'},
+    {title: '', image: './assets/aventura/.jpg', desc: 'R$0,00'},
+    {title: '', image: './assets/aventura/.jpg', desc: 'R$0,00'},
+    {title: '', image: './assets/aventura/.jpg', desc: 'R$0,00'},
+    {title: '', image: './assets/aventura/.jpg', desc: 'R$0,00'},
+    {title: '', image: './assets/aventura/.jpg', desc: 'R$0,00'},
+    {title: '', image: './assets/aventura/.jpg', desc: 'R$0,00'},
+    {title: '', image: './assets/aventura/.jpg', desc: 'R$0,00'},
+    {title: '', image: './assets/aventura/.jpg', desc: 'R$0,00'},
+    {title: '', image: './assets/aventura/.jpg', desc: 'R$0,00'},
+    {title: '', image: './assets/aventura/.jpg', desc: 'R$0,00'},
+    {title: '', image: './assets/aventura/.jpg', desc: 'R$0,00'},
+    {title: '', image: './assets/aventura/.jpg', desc: 'R$0,00'},
+    {title: '', image: './assets/aventura/.jpg', desc: 'R$0,00'},
+    {title: '', image: './assets/aventura/.jpg', desc: 'R$0,00'}
   ]
 
   constructor() { }
