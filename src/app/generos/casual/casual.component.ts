@@ -8,21 +8,21 @@ import { Component, OnInit } from '@angular/core';
 export class CasualComponent implements OnInit {
 
   games: any = [
-    {title: '', image: 'src/assets/casual/', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/casual/', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/casual/', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/casual/', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/casual/', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/casual/', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/casual/', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/casual/', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/casual/', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/casual/', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/casual/', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/casual/', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/casual/', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/casual/', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/casual/', desc: 'R$0,00'}
+    {title: '', image: 'src/assets/casual/.jpg', desc: 'R$0,00'},
+    {title: '', image: 'src/assets/casual/.jpg', desc: 'R$0,00'},
+    {title: '', image: 'src/assets/casual/.jpg', desc: 'R$0,00'},
+    {title: '', image: 'src/assets/casual/.jpg', desc: 'R$0,00'},
+    {title: '', image: 'src/assets/casual/.jpg', desc: 'R$0,00'},
+    {title: '', image: 'src/assets/casual/.jpg', desc: 'R$0,00'},
+    {title: '', image: 'src/assets/casual/.jpg', desc: 'R$0,00'},
+    {title: '', image: 'src/assets/casual/.jpg', desc: 'R$0,00'},
+    {title: '', image: 'src/assets/casual/.jpg', desc: 'R$0,00'},
+    {title: '', image: 'src/assets/casual/.jpg', desc: 'R$0,00'},
+    {title: '', image: 'src/assets/casual/.jpg', desc: 'R$0,00'},
+    {title: '', image: 'src/assets/casual/.jpg', desc: 'R$0,00'},
+    {title: '', image: 'src/assets/casual/.jpg', desc: 'R$0,00'},
+    {title: '', image: 'src/assets/casual/.jpg', desc: 'R$0,00'},
+    {title: '', image: 'src/assets/casual/.jpg', desc: 'R$0,00'}
   ]
 
   constructor() { }

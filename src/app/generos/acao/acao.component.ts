@@ -8,21 +8,21 @@ import { Component, OnInit } from '@angular/core';
 export class AcaoComponent implements OnInit {
 
   games: any = [
-    {title: '', image: 'src/assets/acao/', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/acao/', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/acao/', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/acao/', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/acao/', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/acao/', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/acao/', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/acao/', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/acao/', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/acao/', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/acao/', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/acao/', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/acao/', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/acao/', desc: 'R$0,00'},
-    {title: '', image: 'src/assets/acao/', desc: 'R$0,00'}
+    {title: '', image: 'src/assets/acao/.jpg', desc: 'R$0,00'},
+    {title: '', image: 'src/assets/acao/.jpg', desc: 'R$0,00'},
+    {title: '', image: 'src/assets/acao/.jpg', desc: 'R$0,00'},
+    {title: '', image: 'src/assets/acao/.jpg', desc: 'R$0,00'},
+    {title: '', image: 'src/assets/acao/.jpg', desc: 'R$0,00'},
+    {title: '', image: 'src/assets/acao/.jpg', desc: 'R$0,00'},
+    {title: '', image: 'src/assets/acao/.jpg', desc: 'R$0,00'},
+    {title: '', image: 'src/assets/acao/.jpg', desc: 'R$0,00'},
+    {title: '', image: 'src/assets/acao/.jpg', desc: 'R$0,00'},
+    {title: '', image: 'src/assets/acao/.jpg', desc: 'R$0,00'},
+    {title: '', image: 'src/assets/acao/.jpg', desc: 'R$0,00'},
+    {title: '', image: 'src/assets/acao/.jpg', desc: 'R$0,00'},
+    {title: '', image: 'src/assets/acao/.jpg', desc: 'R$0,00'},
+    {title: '', image: 'src/assets/acao/.jpg', desc: 'R$0,00'},
+    {title: '', image: 'src/assets/acao/.jpg', desc: 'R$0,00'}
   ]
 
   constructor() { }
