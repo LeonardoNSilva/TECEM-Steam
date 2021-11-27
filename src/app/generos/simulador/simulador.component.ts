@@ -25,8 +25,6 @@ export class SimuladorComponent implements OnInit {
     {title: 'War Thunder', image: './assets/simulador/warThunder_460x215.jpg', desc: 'Gratuito'}
   ]
 
-  
-
   constructor() { }
 
   ngOnInit(): void {
