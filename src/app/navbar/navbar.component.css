@@ -2,6 +2,20 @@ nav{
     background-color: #171A21;
 }
 
+.breadcrumb{
+    color: #C5C3C0;
+    margin: 15px;
+}
+
+nav ol li{
+    display: inline;
+}
+
+a{
+    color: inherit;
+    text-decoration: none;
+}
+
 .div1{
     width: 20%;
     border-right: #C5C3C0 solid 2px;
